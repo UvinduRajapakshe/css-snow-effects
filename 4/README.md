@@ -1,5 +1,5 @@
 # SNOWY DAY - PURE CSS ANIMATION
-[Preview](https://uvindubro.me/css-snow-effects/2)
+[Preview](https://uvindubro.me/css-snow-effects/4)
 
 ## Author
 - Aybüke Ceylan
